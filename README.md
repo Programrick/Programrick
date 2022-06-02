@@ -6,7 +6,7 @@
 
 Hi there,
 My name is Rick Galgenbeld. I'm 27 years old and living in Lochem (the Netherlands).
-I have worked in the technical world for 9 years as service engineer, projectmanager & planner. Since last year I noticed that I'm ready for the next step in my career. In the technical world I've acquainted the world of software development. That is something were I want to learn more of!
+I have worked in the technical world for 9 years as technical specialist, projectmanager & planner. Since last year I noticed that I'm ready for the next step in my career. In the technical world I've acquainted the world of software development. That is something were I want to learn more of!
 In the last year I've started a course for HTML/CSS as a solid base. I'm currently busy with a base Python and Javascript course!
 With my work as a technical specialist I've learned to enlarge my analytic skills and problem solving mindset. I think that these skills are crucial as a software developer!
 I hope to find someone here who dare to take on the challenge with me and offer me a job!
